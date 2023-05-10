@@ -1,4 +1,4 @@
-# keyword-network-analysis-and-word-frequency-analysis
+# Keyword Network Analysis and Word Frequency Analysis
  This repository contains Python code for keyword network analysis and word frequency analysis. It includes scripts to extract keyword data from a spreadsheet and convert it to a weighted adjacency matrix, compute node degree and strength, and generate top node lists and node pair weights. Additionally, it provides code for analyzing Twitter data of Elon Musk from 2017-2022, including word frequency computation, top word lists, histogram plots, and bigram network graphs.
 
 
